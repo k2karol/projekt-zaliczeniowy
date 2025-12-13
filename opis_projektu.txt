@@ -1,0 +1,20 @@
+Nazwa proejktu
+
+Celem projektu jest ...
+
+
+Główne cechy projektu:
+- cecha pierwsza
+- cecha druga
+- cecha trzecia
+
+Wykorzystane technologie:
+- Technologia Nr1 
+- Technologia Nr2
+- Technologia Nr3
+
+Funckje, które zapewnia aplikacja
+- Nadawanie / odbieranie przesyłek
+- Śledzenie stanu przesyłek
+- Możliwość udostępniania przesyłek 
+- Możliwość przekierowania przesyłki, nawet w trakcie doręczania ( w ograniczonym zakresie)
