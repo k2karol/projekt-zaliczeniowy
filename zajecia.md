@@ -26,3 +26,6 @@ Testowy tekst
 ``` kolejny fragment kodu ```
 
 [Tu jest link](www.google.com)
+
+![MERITO LOGO](pobrane logo merito.jpg)
+
