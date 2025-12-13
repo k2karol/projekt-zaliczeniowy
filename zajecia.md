@@ -27,5 +27,5 @@ Testowy tekst
 
 [Tu jest link](www.google.com)
 
-![MERITO LOGO](pobrane logo merito.jpg)
+![MERITO LOGO](merito.jpg)
 
