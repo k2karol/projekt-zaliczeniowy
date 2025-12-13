@@ -1,1 +1,34 @@
 
+# Nazwa proejktu
+
+## Celem projektu jest ...
+
+
+### Główne cechy projektu:
+- cecha pierwsza
+- cecha druga
+- cecha trzecia
+
+### Wykorzystane technologie:
+- Technologia Nr1
+  - Ta technologia służy do:
+    - ...
+    - ...
+    - ... 
+- Technologia Nr2
+  - Ta technologia służy do:
+    - ...
+    - ...
+    - ... 
+- Technologia Nr3
+  - Ta technologia służy do:
+    - ...
+    - ...
+    - ...
+   
+  
+### Funckje, które zapewnia aplikacja
+- **Nadawanie** / **odbieranie** przesyłek
+- **Śledzenie** stanu przesyłek
+- Możliwość **udostępniania** przesyłek 
+- Możliwość **przekierowania przesyłki** - nawet w trakcie doręczania ( w ograniczonym zakresie)
