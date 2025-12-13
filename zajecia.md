@@ -29,3 +29,34 @@ Testowy tekst
 
 ![MERITO LOGO](merito.jpg)
 
+
+- First item
+- Second item
+- Third item
+
+1. First item
+2. Second item
+3. Third item
+
+**To do**
+- [x] Zadanie 1
+- [ ] Zadanie 2
+- [ ] Zadanie 3
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
